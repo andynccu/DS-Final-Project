@@ -27,9 +27,6 @@
 </head>
 <body>
 <form action='${requestUri}' method='get'>
-<input type='text' name='keyword' placeholder = 'keyword'/>
-<input type='submit' value='submit' />
-
 <div id="header">
 			<div class="container">
 					
@@ -41,8 +38,8 @@
 				
 				<!-- Nav -->
 				<form id="logo" size=5>
-						<input placeholder="keywords" />
-						<input type="submit" value="Enter" />
+						<input type='text' name='keyword' placeholder = 'keyword' />
+						<input type='submit' value='submit' />
 					</form>
 
 			</div>
@@ -50,30 +47,9 @@
 	<!-- Header -->
 			
 	<!-- Main -->
-		<div id="main">
-			<div class="container">
-				<!-- Logo -->
-					<div id="logo">
-						<h1><a href="#">搜尋結果</a></h1>
-					</div>
+		
 
-					<div class="g">
-						<hr>
-						
-
-					<div class="g">
-						<hr></hr>
-
-						<div class="g">
-							<hr></hr>
-
-							<div class="g">
-								<hr>
-								</hr>
-				<!-- Nav -->
-				<br><br><br><br>
-
-			</div>
+					
 	<!-- Main -->
 
 	<!-- Footer -->
