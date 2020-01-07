@@ -65,7 +65,7 @@ for(int i =0 ; i < orderList.length;i++){%>
 <%
 }
 %>
-//
+/
 					<div class="g">
 						<hr></hr>
 
